@@ -13,7 +13,7 @@ Learn the fundamentals of data manipulation with Pandas:
 
 **Materials**:
 - [Slides](slides/pandas.pdf)
-- [exercises/pandas/pandas.ipynb]
+- [Jupyter Notebook](exercises/pandas/pandas.ipynb)
 
 ### Afternoon Session 1: Matplotlib - Data Visualization
 **Time**: 14:00-15:30
