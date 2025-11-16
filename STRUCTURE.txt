@@ -1,0 +1,71 @@
+DSML 2025 Repository Structure
+================================
+
+dsml2025/
+│
+├── Documentation Files
+│   ├── README.md                    Main overview and event information
+│   ├── SCHEDULE.md                  Detailed schedule (all 6 days)
+│   ├── PARTICIPANT_INFO.md          Participant guide (travel, setup, requirements)
+│   ├── CONTRIBUTING.md              Contribution guidelines
+│   ├── ORGANIZERS.md                Contact information
+│   ├── FAQ.md                       Frequently asked questions
+│   ├── SETUP.md                     Repository setup guide
+│   ├── REPOSITORY_SUMMARY.md        Quick summary of repository
+│   └── LICENSE                      MIT License
+│
+├── Configuration
+│   ├── .gitignore                   Git ignore patterns
+│   ├── requirements.txt             Python dependencies
+│   └── .git/                        Git repository data
+│
+├── lectures/                        Lecture materials organized by day
+│   ├── README.md                    Lectures overview
+│   ├── day0-toolbox/               Sunday - Pandas, Matplotlib, PyTorch
+│   │   └── README.md
+│   ├── day1-foundations/           Monday - Statistical Methods, Neural Networks
+│   │   └── README.md
+│   ├── day2-deeper/                Tuesday - Deep Networks, Backprop, CNNs
+│   ├── day3-architectures/         Wednesday - CNNs, RNNs, Transformers, LLMs
+│   ├── day4-applications/          Thursday - Science, Climate, Humanities, HPC
+│   └── day5-frontiers/             Friday - Foundation Models, Ethics
+│
+├── exercises/                       Hands-on exercises by topic
+│   ├── README.md                    Exercises guide
+│   ├── pandas/                      Data wrangling exercises
+│   ├── matplotlib/                  Visualization exercises
+│   ├── pytorch/                     PyTorch fundamentals
+│   ├── neural-networks/             Basic neural networks
+│   ├── cnns/                        CNN exercises
+│   ├── rnns/                        RNN exercises
+│   ├── transformers/                Transformer exercises
+│   └── applications/                Domain-specific applications
+│
+├── resources/                       Additional learning materials
+│   └── README.md                    Resources guide and links
+│
+├── docs/                            Additional documentation
+│
+└── schedule/                        Schedule-related materials
+
+Key Statistics:
+- 15 documentation files created
+- 19 directories structured
+- 2 git commits
+- Ready for immediate use
+
+Purpose:
+This repository serves as the central hub for all materials related to the
+4th School on Data Science and Machine Learning at ICTP-SAIFR, November 16-21, 2025.
+
+Usage:
+1. Lecturers add materials to lectures/dayX-topic/
+2. Organizers maintain exercises/topic/ directories
+3. Participants clone, install dependencies, and work through materials
+4. All stakeholders can contribute via pull requests
+
+Next Steps:
+1. Upload to GitHub/GitLab
+2. Add lecture materials
+3. Create exercise notebooks
+4. Share with participants
