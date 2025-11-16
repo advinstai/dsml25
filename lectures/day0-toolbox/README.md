@@ -19,8 +19,8 @@ Learn the fundamentals of data manipulation with Pandas:
 **Time**: 14:00-15:30
 
 **Materials**:
-- [Slides to be added]
-- [Jupyter notebook to be added]
+- [Slides](slides/dataviz.pdf)
+- [Jupyter Notebook](exercises/dataviz/dataviz.ipynb)
 
 ### Afternoon Session 2: PyTorch - Tensors & Computation
 **Time**: 16:00-17:30
