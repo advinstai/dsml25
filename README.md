@@ -109,11 +109,6 @@ All participants are required to bring a research poster to be presented during 
 - Banner size: at most 1 m (width) x 1.5 m (length)
 - A4 or A3 paper is NOT accepted
 
-## USERN Congress
-
-The 10th Universal Scientific Education and Research Network (USERN) Congress will be hosted by PUC-Campinas from November 8-10, 2025, just before our school. This prestigious international event offers young scientists an exceptional opportunity to present their research.
-
-For details, visit: [usern.org](http://usern.org/)
 
 ## Contact
 
