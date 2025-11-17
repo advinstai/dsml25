@@ -23,11 +23,9 @@ This day introduces the fundamental concepts of neural networks and statistical 
 
 ### Afternoon Session 1: Neural Networks 101
 
-**Materials**: [To be added]
+**Materials**: 
+- [Materials](https://colab.research.google.com/drive/1rE3T4o61QoIZkUSN4garuNbTAQcWSwdp?usp=sharing)
 
-### Afternoon Session 2: The Perceptron
-
-**Materials**: [To be added]
 
 ### Interactive Session: Building a Simple Perceptron
 
