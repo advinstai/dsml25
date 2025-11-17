@@ -30,6 +30,9 @@ This day introduces the fundamental concepts of neural networks and statistical 
 ### Interactive Session: Building a Simple Perceptron
 
 **Materials**: [To be added]
+- [Materials](slides/nocode.pdf)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [Tensorflow Playground](https://playground.tensorflow.org/)
 
 ## Exercises
 
